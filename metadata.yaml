@@ -1,5 +1,8 @@
 _repo: The-Virginian--A-Horseman-of-the-Plains_1298
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wister, Owen
@@ -14,6 +17,8 @@ description: "The Virginian (otherwise titled The Virginian: A Horseman of the P
   \ ever written, aside from short stories and pulp dime novels. The Virginian paved\
   \ the way for many more westerns by such authors as Zane Grey, Louis L'Amour, and\
   \ several others.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1298#The-Virginian--A-Horseman-of-the-Plains
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Western
